@@ -74,6 +74,6 @@ if [[ $# -eq 0 ]]; then
    sudo apt-key add -< Release.key
    sudo apt update
    yes Y | sudo apt install scidavis
-if
+fi
 
 
